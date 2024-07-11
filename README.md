@@ -5,14 +5,14 @@
 <h3 align="center">A passionate Competitive Programmer and web developer from Vietnam</h3>
 
 <!-- Centered Title and Subtitle -->
-  <img align="right" src="https://i.giphy.com/HqWU6NTLNLzg2Qf5rH.webp" alt="Coding" width="300" />
+ <p align="center"><img  src="https://i.giphy.com/HqWU6NTLNLzg2Qf5rH.webp" alt="Coding" width="500" /></p> 
 <!-- Centered Profile Views Badge -->
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=mingbugsman&label=Profile%20views&color=0e75b6&style=flat" alt="mingbugsman" />
 </p>
 
 <!-- Centered Text -->
-<p align="left">
+<p align="center">
   🌱 I’m currently learning <strong>Fullstack Nodejs and doing some LeetCode</strong><br>
   ✍️ I often post about how to solve LeetCode problems on my Facebook: <a href="https://www.facebook.com/profile.php?id=61558213780534" target="_blank" rel="noreferrer">Facebook Profile</a><br>
   📫 How to reach me: <strong>ming18380@gmail.com</strong>
