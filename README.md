@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, My Name is Trần Tuấn Minh (you can call me Ming bugs man)</h1>
 <h3 align="center">A passionate Competitive Programmers and web developer from Vietnam</h3>
 
-<img align="right" alt="Coding" width="400" src"https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGhoeXQ3ZnVlcnppbXdvYTBqMHVldzhidTlhcXp5bG44bWtuNnZ3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HqWU6NTLNLzg2Qf5rH/giphy.webp"
+<img align="right" alt="Coding" width="400" src"https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGhoeXQ3ZnVlcnppbXdvYTBqMHVldzhidTlhcXp5bG44bWtuNnZ3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HqWU6NTLNLzg2Qf5rH/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mingbugsman&label=Profile%20views&color=0e75b6&style=flat" alt="mingbugsman" /> </p>
 
