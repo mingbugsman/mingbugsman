@@ -80,3 +80,5 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mingbugsman&" alt="mingbugsman" />
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mingbugsman)](https://github.com/ryo-ma/github-profile-trophy)
