@@ -1,5 +1,5 @@
 <p>
-  <img width="100%" height="80%" src="https://media1.tenor.com/m/UdX-_wwJpGIAAAAC/touhou-fumo.gif">
+  <img width="100%" src="https://media1.tenor.com/m/ov91MZYrigkAAAAd/touhou-fumo.gif">
 </p>
 <h1 align="center">Hi 👋, My Name is Trần Tuấn Minh</h1>
 <h3 align="center">Web developer from Vietnam</h3>
